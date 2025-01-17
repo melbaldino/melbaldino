@@ -1,4 +1,4 @@
-- Hi, I’m @melbaldino. I am a first year graduate student at UC Berkeley's Environmental Science, Policy, and Management
+- Hi, I’m @melbaldino. I am a second year graduate student at UC Berkeley's Environmental Science, Policy, and Management
 - I’m interested in wetland restoration and remote sensing. 
 - I’m currently learning python, r, and javascript
 - Pronouns: she/they
